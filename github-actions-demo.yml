@@ -1,0 +1,3 @@
+- name: GraphQL Inspector
+  uses: kamilkisiela/graphql-inspector@v3.0.2
+
